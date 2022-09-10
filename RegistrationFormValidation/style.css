@@ -1,0 +1,23 @@
+.main-wrapper {
+	margin-top: 20px;
+    background-image: linear-gradient(blue, red);
+    border-radius: 80px;
+}
+
+.page-title {
+	text-align: center;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.registration-form {
+	width: 100%;
+    margin: auto auto;
+}
+
+.form-label{
+    color:#fff;
+}
+.form-check{
+    color: #fff;
+}
